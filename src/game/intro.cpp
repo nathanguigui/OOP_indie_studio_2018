@@ -1,0 +1,51 @@
+/*void do_introduction(BombermanGame *game)
+{
+    core::array<core::vector3df> points;
+    points.push_back(core::vector3df(4454.96, 860.954, 2033.21));
+    points.push_back(core::vector3df(4362.57, 733.228, 2036.59));
+    points.push_back(core::vector3df(4366.95, 733.228, 2222.04));
+    points.push_back(core::vector3df(4377.12, 733.228, 2652.41));
+    points.push_back(core::vector3df(4356.91, 733.228, 3088.2));
+    points.push_back(core::vector3df(4280.68, 733.228, 3510.18));
+    points.push_back(core::vector3df(4064.24, 733.228, 3880.72));
+    points.push_back(core::vector3df(3647.8, 733.228, 3958.93));
+    points.push_back(core::vector3df(3216.77, 733.228, 3985.19));
+    points.push_back(core::vector3df(2783.58, 733.228, 4001.34));
+    points.push_back(core::vector3df(2351.18, 733.228, 4008.71));
+    points.push_back(core::vector3df(1916.18, 733.228, 4009.9));
+    points.push_back(core::vector3df(1485.18, 733.228, 4011.07));
+    points.push_back(core::vector3df(1052.22, 733.228, 4007.3));
+    points.push_back(core::vector3df(618.021, 733.228, 3982.49));
+    points.push_back(core::vector3df(199.888, 733.228, 3889.51));
+    points.push_back(core::vector3df(-123.115, 733.228, 3605.92));
+    points.push_back(core::vector3df(-219.541, 733.228, 3191.45));
+    points.push_back(core::vector3df(-202.849, 733.228, 2755.79));
+    points.push_back(core::vector3df(-185.219, 733.228, 2325.15));
+    points.push_back(core::vector3df(-167.445, 733.228, 1891.01));
+    points.push_back(core::vector3df(-151.152, 733.228, 1451.32));
+    points.push_back(core::vector3df(-141.381, 733.228, 1024.94));
+    points.push_back(core::vector3df(-133.463, 733.228, 593.509));
+    points.push_back(core::vector3df(-57.7035, 733.228, 167.928));
+    points.push_back(core::vector3df(172.16, 733.228, -190.889));
+    points.push_back(core::vector3df(558.254, 733.228, -376.337));
+    points.push_back(core::vector3df(984.266, 733.228, -445.07));
+    points.push_back(core::vector3df(1417.31, 733.228, -459.126));
+    points.push_back(core::vector3df(1851.29, 733.228, -463.159));
+    points.push_back(core::vector3df(2283.76, 733.228, -459.067));
+    points.push_back(core::vector3df(2716.71, 733.228, -451.977));
+    points.push_back(core::vector3df(3154.15, 733.228, -444.813));
+    points.push_back(core::vector3df(3578.29, 733.228, -384.993));
+    points.push_back(core::vector3df(3966.85, 733.228, -194.247));
+    points.push_back(core::vector3df(4255.58, 733.228, 122.994));
+    points.push_back(core::vector3df(4350.45, 733.228, 542.119));
+    points.push_back(core::vector3df(4376.52, 733.228, 973.958));
+    points.push_back(core::vector3df(4377.17, 733.228, 1406.95));
+    points.push_back(core::vector3df(4370.1, 733.228, 1839.87));
+    points.push_back(core::vector3df(4738.86, 909.667, 1851.49));
+    points.push_back(core::vector3df(4998.1, 1185.88, 1845.5));
+    points.push_back(core::vector3df(5095.51, 1591.84, 1839.01));
+    points.push_back(core::vector3df(5215.36, 1738.96, 1831.32));
+    points.push_back(core::vector3df(5215.36, 1738.96, 1831.32));
+
+    game->_map->getCamera()->addAnimator(game->_smgr->createFollowSplineAnimator(game->_device->getTimer()->getTime(), points));
+}*/
